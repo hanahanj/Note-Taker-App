@@ -4,12 +4,13 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-   "devStart": "nodemod server.js"
+    "devStart": "nodemod server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "nodemod": "^3.0.6"
